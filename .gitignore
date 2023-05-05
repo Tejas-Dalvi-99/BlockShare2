@@ -7,6 +7,4 @@ typechain-types
 
 # Hardhat files
 cache
-artifacts
-
-client\src\artifacts\build-info
+artifacts\build-info
