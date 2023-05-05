@@ -9,3 +9,4 @@ typechain-types
 cache
 artifacts
 
+client\src\artifacts\build-info
